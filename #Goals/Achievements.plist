@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Weight</key>
+	<integer>168</integer>
+	<key>LastTimeEarned</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Images</key>
+	<array>
+		<string>bronze</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>platinum</string>
+		<string>bronze</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>platinum</string>
+		<string>platinum</string>
+		<string>bronze</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>platinum</string>
+		<string>bronze</string>
+		<string>bronze</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>bronze</string>
+		<string>bronze</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>platinum</string>
+		<string>platinum</string>
+		<string>bronze</string>
+		<string>bronze</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>platinum</string>
+		<string>bronze</string>
+		<string>bronze</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>platinum</string>
+		<string>bronze</string>
+		<string>silver</string>
+		<string>gold</string>
+		<string>platinum</string>
+	</array>
+	<key>CanEarnMultipleTimes</key>
+	<array>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<true/>
+		<true/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<false/>
+		<true/>
+		<true/>
+		<true/>
+		<true/>
+	</array>
+	<key>TimesEarned</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>Description</key>
+	<array>
+		<string>Earn this for reaching 10,000 steps in a day</string>
+		<string>Earn this for reaching 15,000 steps in a day</string>
+		<string>Earn this for reaching 20,000 steps in a day</string>
+		<string>Earn this for reaching 30,000 steps in a day</string>
+		<string>Earn this for reaching 50,000 steps in a week</string>
+		<string>Earn this for reaching 75,000 steps in a week</string>
+		<string>Earn this for reaching 100,000 steps in a week</string>
+		<string>Earn this for reaching 150,000 steps in a week</string>
+		<string>Earn this for reaching 200,000 steps in a week</string>
+		<string>Earn this for reaching 500,000 total steps</string>
+		<string>Earn this for reaching 1,000,000 total steps</string>
+		<string>Earn this for reaching 5,000,000 total steps</string>
+		<string>Earn this for reaching 10,000,000 total steps</string>
+		<string>Earn walking your first steps with the app</string>
+		<string>Earn this for losing your first pound</string>
+		<string>Earn this for losing five total pounds</string>
+		<string>Earn this for losing ten total pounds</string>
+		<string>Earn this for traveling 13.1 miles in a day</string>
+		<string>Earn this for traveling 26.2 miles in a day</string>
+		<string>Earn this for traveling 100 total miles</string>
+		<string>Earn this for traveling 500 total miles</string>
+		<string>Earn this for traveling 1,000 total miles</string>
+		<string>Earn this for traveling 5,000 total miles</string>
+		<string>Earn this for traveling 10,000 total miles</string>
+		<string>Earn this for traveling 50,000 total miles</string>
+		<string>Burn 0 calories in a day :( </string>
+		<string>Earn this for burning 500 calories in a day</string>
+		<string>Earn this for burning 1,000 calories in a day</string>
+		<string>Earn this for burning 1,500 calories in a day</string>
+		<string>Earn this for burning 2,000 calories in a day</string>
+		<string>Earn this for working out for 1 hour total. You&apos;re on your way to greatness!</string>
+		<string>Earn this for working out for 40 total hours. You just made working out your fulltime job!</string>
+		<string>Earn this for working out for 100 total hours</string>
+		<string>Earn this for working out for 500 total hours</string>
+		<string>Earn this for working out for 1,000 total hours</string>
+		<string>Earn this for walking up 22 flights of stairs in a day</string>
+		<string>Earn this for walking up 45 flights of stairs in a day</string>
+		<string>Earn this for walking up 86 flights of stairs in a day</string>
+		<string>Earn this for walking up 160 flights of stairs in a day</string>
+	</array>
+	<key>Achievements</key>
+	<array>
+		<string>10k steps in a day</string>
+		<string>15k steps in a day</string>
+		<string>20k steps in a day</string>
+		<string>30k steps in a day</string>
+		<string>50k steps in a week</string>
+		<string>75k steps in a week</string>
+		<string>100k steps in a week</string>
+		<string>150k steps in a week</string>
+		<string>200k steps in a week</string>
+		<string>500k lifetime steps</string>
+		<string>1 million lifetime steps</string>
+		<string>5 million lifetime steps</string>
+		<string>10 million lifetime steps</string>
+		<string>Baby steps</string>
+		<string>Lose a pound</string>
+		<string>Lose 5 pounds</string>
+		<string>Lose 10 pounds</string>
+		<string>Travel 13.1 miles in a day</string>
+		<string>Travel 26.2 miles in a day</string>
+		<string>Travel 100 total miles</string>
+		<string>Travel 500 total miles</string>
+		<string>Travel 1,000 total miles</string>
+		<string>Travel 5,000 total miles</string>
+		<string>Travel 10,000 total miles</string>
+		<string>Travel 50,000 total miles</string>
+		<string>Quitter!</string>
+		<string>Burn 500 calories in a day</string>
+		<string>Burn 1,000 calories in a day</string>
+		<string>Burn 1,500 calories in a day</string>
+		<string>Burn 2,000 calories in a day</string>
+		<string>Workout for 1 hour total</string>
+		<string>Workout for 40 total hours</string>
+		<string>Workout for 100 total hours</string>
+		<string>Workout for 500 total hours</string>
+		<string>Workout for 1,000 total hours</string>
+		<string>Statue of Liberty</string>
+		<string>Eiffle Tower</string>
+		<string>Empire state of mind</string>
+		<string>Burj Khalifa</string>
+	</array>
+</dict>
+</plist>
